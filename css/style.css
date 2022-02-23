@@ -9,7 +9,7 @@ div.container div.titulo h1 {
     color: darkgoldenrod;
 }
 
-div.con-parraf {
+div.con-parraf, div.borde-historia {
     border: 5px solid goldenrod;
     padding: 15px;
     border-radius: 10px;
@@ -21,7 +21,7 @@ div.container div.personajes {
     margin-right: auto;
 }
 
-div.container div.personajes img {
+div.container div.personajes img{
     width: 200px;
 }
 
@@ -47,4 +47,14 @@ div.container div.col-naranja {
     border: 5px solid darkorange;
     border-radius: 5px;
     *margin: 1px 5px;
+}
+
+a img.img-juegos  {
+    width: 100px;
+    height: 140px;
+    margin: 5px;
+}
+
+p.miputavida {
+    font-size: 1.5em;
 }
